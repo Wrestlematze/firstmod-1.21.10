@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "firstmod",
+	"version": "${version}",
+	"name": "FirstMod",
+	"description": "This is my first Mod, in which i will put everything, i want to add for a better survival gameplay experience.",
+	"authors": [
+		"Marten Scheel"
+	],
+	"contact": {
+		"homepage": "https://www.martenscheel.de/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/firstmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.wrestlematze.firstmod.FirstMod"
+		],
+		"fabric-datagen": [
+			"com.wrestlematze.firstmod.FirstModDataGenerator"
+		],
+        "client": [
+          "com.wrestlematze.firstmod.FirstModClient"
+        ]
+	},
+	"mixins": [
+		"firstmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
