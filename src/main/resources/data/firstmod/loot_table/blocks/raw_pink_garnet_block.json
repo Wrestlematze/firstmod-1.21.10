@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "conditions": [
+            {
+              "condition": "minecraft:survives_exlosion"
+            }
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "firstmod:raw_pink_garnet_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

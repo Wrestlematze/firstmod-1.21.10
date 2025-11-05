@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "firstmod:block/cola_block_front",
+    "end": "firstmod:block/cola_block_top"
+  }
+}

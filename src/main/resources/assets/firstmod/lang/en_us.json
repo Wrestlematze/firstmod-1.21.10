@@ -1,4 +1,13 @@
 {
   "item.firstmod.pink_garnet": "Pink Garnet",
-  "item.firstmod.cola": "Cola"
+  "item.firstmod.pink_garnet_block": "Pink Garnet Block",
+  "item.firstmod.pink_garnet_ore": "Pink Garnet Ore",
+  "item.firstmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+  "item.firstmod.raw_pink_garnet_block": "Raw Pink Garnet Block",
+  "item.firstmod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.firstmod.cola": "Cola",
+  "item.firstmod.cola_block": "Cola Block",
+  "effect.firstmod.slimey": "Slimey",
+  "effect.firstmod.cola": "Cola",
+  "itemgroup.firstmod.mod_items": "Mod Items"
 }

@@ -1,4 +1,13 @@
 {
   "item.firstmod.pink_garnet": "Pinker Granat",
-  "item.firstmod.cola": "Cola"
+  "item.firstmod.pink_garnet_block": "Pinker Granat Block",
+  "item.firstmod.raw_pink_garnet_block": "Roher Pinker Granat Block",
+  "item.firstmod.raw_pink_garnet": "Roher Pinker Granat",
+  "item.firstmod.pink_garnet_ore": "Pinker Granat Erz",
+  "item.firstmod.pink_garnet_deepslate_ore": "Pinker Granat Tiefenschiefer Erz",
+  "item.firstmod.cola": "Cola",
+  "item.firstmod.cola_block": "Cola Block",
+  "effect.firstmod.slimey": "Schleimig",
+  "effect.firstmod.cola": "Nerd Booster",
+  "itemgroup.firstmod.mod_items": "Mod Items"
 }

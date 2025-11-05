@@ -1,5 +1,7 @@
 package com.wrestlematze.firstmod;
 
+import com.wrestlematze.firstmod.blocks.ModBlocks;
+import com.wrestlematze.firstmod.effect.ModEffects;
 import com.wrestlematze.firstmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +15,7 @@ public class FirstMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
         ModItems.registerModItems();
-
+        ModBlocks.registerModBlocks();
+        ModEffects.registerEffects();
 	}
 }
